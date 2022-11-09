@@ -1,4 +1,4 @@
-package pl.sdacademy.java.hibernate.workshop1;
+package pl.sdacademy.java.hibernate.workshop7.workshop1;
 
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityManagerFactory;

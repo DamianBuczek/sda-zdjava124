@@ -3,6 +3,7 @@ package pl.sdacademy.java.hibernate.workshop1;
 import org.junit.jupiter.api.*;
 import pl.sdacademy.java.hibernate.common.world.Country;
 import pl.sdacademy.java.hibernate.tests.WorldDbHelper;
+import pl.sdacademy.java.hibernate.workshop7.workshop1.Workshop1;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
